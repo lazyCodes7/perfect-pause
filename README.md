@@ -1,5 +1,5 @@
 <h2>Perfect-Pause</h2>
-<p>Computer Vision based attention monitoring  system to aid your movie-watching experience. .</p>
+<p>Computer Vision based attention monitoring  system to aid your movie-watching experience.</p>
 <h3>An Overview</h3>
 <p>Our aim is to develop a robust human attention monitoring system based on Computer Vision which will work in harmony with VLC media player, prompting it to execute actions such as pause/play depending on whether the user is paying attention to his monitor or not.</p>
 <h3>Why is it useful?</h3>
