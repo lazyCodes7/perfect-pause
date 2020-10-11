@@ -1,2 +1,2 @@
-## Perfect-Pause ##
-Ever felt sleepy enough to pause a video but also lazy enough to not do it. This is the player for you then
+<h2>Perfect-Pause</h3>
+<p>Computer Vision based attention monitoring  system to aid your movie-watching experience.Automatically pause movies/videos using Computer Vision.</p>
