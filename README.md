@@ -34,12 +34,3 @@
 <h3>Is it safe?</h3>
 <p>Our solution does not store or upload any data, it captures frames from the webcam and deletes the frame as soon as it computes the inference.
 </p>
-<h3>Contributors</h3>
-<ul>
-  <li>Siddharth Cilamkoti</li>
-  <li>Mainak Deb</li>
-  <li>Rishab Mudliar</li>
-  <li>Giwansh Aryan</li>
-  <li>Sanjay Thiyagarajan</li>
-  <li>Navneet Kumar Singh</li>
- </ul>
