@@ -20,14 +20,17 @@ media_player.set_media(media)
 media_player.audio_set_volume(100)
 
 # start playing video
-val1=0
 value = 1
-while(val1==0):
+while(value==1):
 	media_player.play()
 	time.sleep(5)
-	if(val1==1):
-		while(value):
+	value = 0
+	if(value==0):
+		while(value==0):
 			media_player.set_pause(1)
 			time.sleep(1)
-			if(value==0):
+			value=1
+			if(value==1):
+				media_player.play()
+				time.sleep(5)
 				break
