@@ -1,20 +1,20 @@
 <h2>Perfect-Pause</h2>
-<p>Computer Vision based attention monitoring  system to aid your movie-watching experience.Automatically pause movies/videos using Computer Vision.</p>
+<p>Computer Vision based attention monitoring  system to aid your movie-watching experience. .</p>
 <h3>An Overview</h3>
 <p>Our aim is to develop a robust human attention monitoring system based on Computer Vision which will work in harmony with VLC media player, prompting it to execute actions such as pause/play depending on whether the user is paying attention to his monitor or not.</p>
 <h3>Why is it useful?</h3>
 <ul>
-  <li>Make sure that the video/movie keeps playing only when the user is watching.</li>
-  <li>Pause the video/movie when the user is unattentive or is not watching.</li>
+  <li>Our system will ensure that the video/movie keeps playing only when the user is watching.</li>
+  <li>Our system will pause the video/movie when the user is unattentive or is not watching.</li>
 </ul>
 <h3>Example situations where our model will be useful :</h3>
 <ul>
-  <li>Falling asleep.</li>
-  <li>Attend a call.</li>
-  <li>Emergency chore.</li>
-  <li>Getting called to carry the groceries. from the car.</li>
+  <li>If the user falls asleep.</li>
+  <li>If the user has to receive a call/.</li>
+  <li>Attending an emergency chore.</li>
+  <li>Getting called to carry the groceries from the car :)</li>
 </ul>
-<h3>The Approach</h3>
+<h3>Our Approach :</h3>
 <p>We are using openCV’s Haar Cascades determine the ROI (region of interest) and process the inference, all of which takes milliseconds and requires minimal computing power.</p>
 <img src = "https://user-images.githubusercontent.com/53506835/95672667-7df88f00-0bc0-11eb-9e0f-c71bdf60277d.png">
 
