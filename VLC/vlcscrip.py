@@ -18,19 +18,16 @@ media = vlc.Media("/home/dazedtiara6667/test/7th Grade Crush _ Brooklyn Nine-Nin
 media_player.set_media(media)
 
 media_player.audio_set_volume(100)
+
 # start playing video
-media_player.play()
-
-# wait so the video can be played for 5 seconds
-# irrespective for length of video
-time.sleep(5)
-
+val1=0
 value = 1
-# printing value
-while(value):
-	media_player.set_pause(1)
-	time.sleep(1)
-	if(value==0):
-		media_player.play()
-	value=1
-# pausing the video 
+while(val1==0):
+	media_player.play()
+	time.sleep(5)
+	if(val1==1):
+		while(value):
+			media_player.set_pause(1)
+			time.sleep(1)
+			if(value==0):
+				break
