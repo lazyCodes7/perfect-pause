@@ -1,5 +1,8 @@
 <h2>Perfect-Pause</h2>
 <p>Computer Vision based attention monitoring  system to aid your movie-watching experience.</p>
+
+Link to presentation: https://www.youtube.com/watch?v=FDIZSHDRuGk
+
 <img src="https://github.com/lazyCodes7/perfect-pause/blob/main/gifs/demo1-compressed.gif" width="510">
 <img src="https://github.com/lazyCodes7/perfect-pause/blob/main/gifs/demo2.gif" width="510">
 
