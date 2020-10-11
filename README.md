@@ -24,3 +24,15 @@
 <h3>Integrating VLC Media player:</h3>
 <p>We are using a python package called vlc to bridge the gap between Computer-Vision and VLC media player.
 <img src="https://user-images.githubusercontent.com/53506835/95672355-bf3b6f80-0bbd-11eb-8fff-c7f4ef6a38ec.png">
+<h3>Is it safe?</h3>
+<p>Our solution does not store or upload any data, it captures frames from the webcam and deletes the frame as soon as it computes the inference.
+</p>
+<h3>Contributors</h3>
+<ul>
+  <li>Siddharth Cilamkoti</li>
+  <li>Mainak Deb</li>
+  <li>Rishab Mudliar</li>
+  <li>Giwansh Aryan</li>
+  <li>Sanjay Thiyagarajan</li>
+  <li>Navneet Kumar Singh</li>
+ </ul>
