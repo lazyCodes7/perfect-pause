@@ -4,6 +4,7 @@ import cv2
 import vlc
 import time
 
+#We are using OpenCV to achieve object detection from live frame
 
 def monitor_human():
     return_var = 0
@@ -40,7 +41,7 @@ def monitor_human():
         else:
             return_var=1
         return(return_var)
-
+# The above function returns the status derived through monitoring 
 
 media_player = vlc.MediaPlayer()
 
