@@ -20,3 +20,7 @@
 <ul>
   <li>Haar Cascade is a machine learning object detection algorithm used to identify objects in an image or video and based on the concept of ​​ features proposed by Paul Viola and Michael Jones.</li>
   <li>It is a machine learning based approach where a cascade function is trained from a lot of positive and negative images. It is then used to detect objects in other images.</li>
+</ul>
+<h3>Integrating VLC Media player:</h3>
+<p>We are using a python package called vlc to bridge the gap between Computer-Vision and VLC media player.
+<img src="https://user-images.githubusercontent.com/53506835/95672355-bf3b6f80-0bbd-11eb-8fff-c7f4ef6a38ec.png">
