@@ -45,7 +45,7 @@ def monitor_human():
 
 media_player = vlc.MediaPlayer()
 
-# media object
+# adding media object
 media = vlc.Media("./rm.mkv")
 
 
